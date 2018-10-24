@@ -1,5 +1,4 @@
 //package
-const botconfig = require("./botconfig.json");
 const Discord = require("discord.js");
 const economy = require("discord-eco");
 const fs = require("fs");
