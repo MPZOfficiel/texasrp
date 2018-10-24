@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.4.2",
     "discord-eco": "^0.0.10",
-    "ms": "^2.1.1",
-    "fs-extra": "^7.0.0"
+    "fs-extra": "^7.0.0",
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
